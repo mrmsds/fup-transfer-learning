@@ -1,0 +1,111 @@
+INPUT,FOUND_BY,DTXSID,PREFERRED_NAME,QSAR_READY_SMILES,DTXCID
+DTXSID30627108,DSSTox_Substance_Id,DTXSID30627108,((Perfluorooctyl)ethyl)phosphonic acid,OP(O)(=O)CCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,DTXCID80577861
+DTXSID5061954,DSSTox_Substance_Id,DTXSID5061954,11-H-Perfluoroundecanoic acid,OC(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)F,DTXCID0035619
+DTXSID60380390,DSSTox_Substance_Id,DTXSID60380390,"2,2,2-Trifluoroethyl perfluorobutanesulfonate",FC(F)(F)COS(=O)(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,DTXCID90331416
+DTXSID20874028,DSSTox_Substance_Id,DTXSID20874028,"2H,2H,3H,3H-Perfluorooctanoic acid",OC(=O)CCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,DTXCID201012167
+DTXSID40380257,DSSTox_Substance_Id,DTXSID40380257,3-(Perfluoroisopropyl)-2-propenoic acid,OC(=O)C=CC(F)(C(F)(F)F)C(F)(F)F,DTXCID80331283
+DTXSID00379268,DSSTox_Substance_Id,DTXSID00379268,3:3 Fluorotelomer carboxylic acid,OC(=O)CCC(F)(F)C(F)(F)C(F)(F)F,DTXCID60330294
+DTXSID80380256,DSSTox_Substance_Id,DTXSID80380256,"4,4-bis(Trifluoromethyl)-4-fluoropropanoic acid",OC(=O)CCC(F)(C(F)(F)F)C(F)(F)F,DTXCID20331282
+DTXSID50892417,DSSTox_Substance_Id,DTXSID50892417,4H-Perfluorobutanoic acid,OC(=O)C(F)(F)C(F)(F)C(F)F,DTXCID301079605
+DTXSID90558000,DSSTox_Substance_Id,DTXSID90558000,6:2 Fluorotelomer phosphate monoester,OP(O)(=O)OCCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,DTXCID00200745
+DTXSID70165670,DSSTox_Substance_Id,DTXSID70165670,7H-Perfluoroheptanoic acid,OC(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)F,DTXCID6088161
+DTXSID00192353,DSSTox_Substance_Id,DTXSID00192353,8:2 Fluorotelomer sulfonic acid,OS(=O)(=O)CCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,DTXCID10114844
+DTXSID50226894,DSSTox_Substance_Id,DTXSID50226894,9H-Perfluorononanoic acid,OC(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)F,DTXCID80149385
+DTXSID50226894,DSSTox_Substance_Id,DTXSID50226894,9H-Perfluorononanoic acid,OC(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)F,DTXCID80149385
+DTXSID8037708,DSSTox_Substance_Id,DTXSID8037708,Ammonium perfluorooctanoate,OC(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,DTXCID6017708
+DTXSID9059915,DSSTox_Substance_Id,DTXSID9059915,Heptafluorobutyryl Chloride,FC(F)(F)C(F)(F)C(F)(F)C(Cl)=O,DTXCID6039342
+DTXSID8059926,DSSTox_Substance_Id,DTXSID8059926,Perfluoropentanedioic acid,OC(=O)C(F)(F)C(F)(F)C(F)(F)C(O)=O,DTXCID9039367
+DTXSID3020209,DSSTox_Substance_Id,DTXSID3020209,Butylparaben,CCCCOC(=O)C1=CC=C(O)C=C1,DTXCID90209
+DTXSID1032646,DSSTox_Substance_Id,DTXSID1032646,N-Ethylperfluorooctane sulfonamide,CCNS(=O)(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,DTXCID9012646
+DTXSID7027831,DSSTox_Substance_Id,DTXSID7027831,N-Methyl-N-(2-hydroxyethyl)perfluorooctanesulfonamide,CN(CCO)S(=O)(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,DTXCID607831
+DTXSID1067629,DSSTox_Substance_Id,DTXSID1067629,N-Methylperfluorooctanesulfonamide,CNS(=O)(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,DTXCID1038377
+DTXSID4059833,DSSTox_Substance_Id,DTXSID4059833,Perfluorohexanedioic acid,OC(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(O)=O,DTXCID9038713
+DTXSID40187142,DSSTox_Substance_Id,DTXSID40187142,Pentadecafluorooctanoyl chloride,FC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(Cl)=O,DTXCID50109633
+DTXSID50379814,DSSTox_Substance_Id,DTXSID50379814,Perfluoro-2-ethoxyethanesulfonic acid,OS(=O)(=O)C(F)(F)C(F)(F)OC(F)(F)C(F)(F)F,DTXCID10330840
+DTXSID60500450,DSSTox_Substance_Id,DTXSID60500450,Perfluoro(4-methoxybutanoic acid),OC(=O)C(F)(F)C(F)(F)C(F)(F)OC(F)(F)F,DTXCID50451260
+DTXSID80380837,DSSTox_Substance_Id,DTXSID80380837,"Perfluoro-3,6,9-trioxadecanoic acid",OC(=O)C(F)(F)OC(F)(F)C(F)(F)OC(F)(F)C(F)(F)OC(F)(F)F,DTXCID60331862
+DTXSID50375114,DSSTox_Substance_Id,DTXSID50375114,"Perfluoro-3,6,9-trioxatridecanoic acid",OC(=O)C(F)(F)OC(F)(F)C(F)(F)OC(F)(F)C(F)(F)OC(F)(F)C(F)(F)C(F)(F)C(F)(F)F,DTXCID70326143
+DTXSID50381073,DSSTox_Substance_Id,DTXSID50381073,"Perfluoro-3,6-dioxadecanoic acid",OC(=O)C(F)(F)OC(F)(F)C(F)(F)OC(F)(F)C(F)(F)C(F)(F)C(F)(F)F,DTXCID80332098
+DTXSID30382063,DSSTox_Substance_Id,DTXSID30382063,"Perfluoro-3,6-dioxaheptanoic acid",OC(=O)C(F)(F)OC(F)(F)C(F)(F)OC(F)(F)F,DTXCID60333088
+DTXSID20375106,DSSTox_Substance_Id,DTXSID20375106,"Perfluoro-3,6-dioxaoctane-1,8-dioic acid",OC(=O)C(F)(F)OC(F)(F)C(F)(F)OC(F)(F)C(O)=O,DTXCID40326135
+DTXSID70191136,DSSTox_Substance_Id,DTXSID70191136,Perfluoro-3-methoxypropanoic acid,OC(=O)C(F)(F)C(F)(F)OC(F)(F)F,DTXCID80113627
+DTXSID60663110,DSSTox_Substance_Id,DTXSID60663110,Perfluoro-4-isopropoxybutanoic acid,OC(=O)C(F)(F)C(F)(F)C(F)(F)OC(F)(C(F)(F)F)C(F)(F)F,DTXCID80613859
+DTXSID5030030,DSSTox_Substance_Id,DTXSID5030030,Perfluorobutanesulfonic acid,OS(=O)(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,DTXCID3010030
+DTXSID4059916,DSSTox_Substance_Id,DTXSID4059916,Perfluorobutanoic acid,OC(=O)C(F)(F)C(F)(F)C(F)(F)F,DTXCID1039343
+DTXSID3031860,DSSTox_Substance_Id,DTXSID3031860,Perfluorodecanoic acid,OC(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,DTXCID1011860
+DTXSID8059920,DSSTox_Substance_Id,DTXSID8059920,Perfluoroheptanesulfonic acid,OS(=O)(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,DTXCID1039347
+DTXSID1037303,DSSTox_Substance_Id,DTXSID1037303,Perfluoroheptanoic acid,OC(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,DTXCID9017303
+DTXSID80382154,DSSTox_Substance_Id,DTXSID80382154,Perfluoroheptanoyl chloride,FC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(Cl)=O,DTXCID10333179
+DTXSID7040150,DSSTox_Substance_Id,DTXSID7040150,Perfluorohexanesulfonic acid,OS(=O)(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,DTXCID2011859
+DTXSID3031862,DSSTox_Substance_Id,DTXSID3031862,Perfluorohexanoic acid,OC(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,DTXCID1011862
+DTXSID8031863,DSSTox_Substance_Id,DTXSID8031863,Perfluorononanoic acid,OC(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,DTXCID6011863
+DTXSID00379925,DSSTox_Substance_Id,DTXSID00379925,Perfluorononanoyl chloride,FC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(Cl)=O,DTXCID60330951
+DTXSID3038939,DSSTox_Substance_Id,DTXSID3038939,Perfluorooctanesulfonamide,NS(=O)(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,DTXCID1018939
+DTXSID8051419,DSSTox_Substance_Id,DTXSID8051419,"N-[(Perfluorooctylsulfonamido)propyl]-N,N,N-trimethylammonium iodide",C[N+](C)(C)CCCNS(=O)(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,DTXCID6030021
+DTXSID3031864,DSSTox_Substance_Id,DTXSID3031864,Perfluorooctanesulfonic acid,OS(=O)(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,DTXCID1011864
+DTXSID0059829,DSSTox_Substance_Id,DTXSID0059829,Perfluorooctanoyl fluoride,FC(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,DTXCID8038693
+DTXSID6062599,DSSTox_Substance_Id,DTXSID6062599,Perfluoropentanoic acid,OC(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,DTXCID9037612
+DTXSID8059970,DSSTox_Substance_Id,DTXSID8059970,Perfluoropropanoic acid,OC(=O)C(F)(F)C(F)(F)F,DTXCID4040058
+DTXSID3059921,DSSTox_Substance_Id,DTXSID3059921,Perfluorotetradecanoic acid,OC(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,DTXCID4039362
+DTXSID90868151,DSSTox_Substance_Id,DTXSID90868151,Perfluorotridecanoic acid,OC(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,DTXCID60816285
+DTXSID3037707,DSSTox_Substance_Id,DTXSID3037707,Potassium perfluorobutanesulfonate,OS(=O)(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,DTXCID1017707
+DTXSID3037709,DSSTox_Substance_Id,DTXSID3037709,Potassium perfluorohexanesulfonate,OS(=O)(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,DTXCID1017709
+DTXSID8037706,DSSTox_Substance_Id,DTXSID8037706,Potassium perfluorooctanesulfonate,OS(=O)(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,DTXCID6017706
+DTXSID00880026,DSSTox_Substance_Id,DTXSID00880026,Potassium perfluorooctanoate,OC(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,DTXCID001021633
+DTXSID00880026,DSSTox_Substance_Id,DTXSID00880026,Potassium perfluorooctanoate,OC(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,DTXCID001021633
+DTXSID60892443,DSSTox_Substance_Id,DTXSID60892443,Sodium perfluorodecanesulfonate,OS(=O)(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,DTXCID601079628
+DTXSID40880025,DSSTox_Substance_Id,DTXSID40880025,Sodium perfluorooctanoate,OC(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,DTXCID301021632
+DTXSID20335129,DSSTox_Substance_Id,DTXSID20335129,"1,6-Dibromododecafluorohexane",FC(F)(Br)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)Br,DTXCID70286218
+DTXSID30190948,DSSTox_Substance_Id,DTXSID30190948,"Perfluoro-1,4-diiodobutane",FC(F)(I)C(F)(F)C(F)(F)C(F)(F)I,DTXCID70113439
+DTXSID90190949,DSSTox_Substance_Id,DTXSID90190949,"1,6-Diiodoperfluorohexane",FC(F)(I)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)I,DTXCID80113440
+DTXSID10379835,DSSTox_Substance_Id,DTXSID10379835,"1H,1H-Perfluoroheptylamine",NCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,DTXCID70330861
+DTXSID50379930,DSSTox_Substance_Id,DTXSID50379930,"1H,1H-Perfluorononylamine",NCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,DTXCID60330956
+DTXSID60379901,DSSTox_Substance_Id,DTXSID60379901,(Perfluoro-5-methylhexyl)ethyl 2-methylprop-2-enoate,CC(=C)C(=O)OCCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(C(F)(F)F)C(F)(F)F,DTXCID70330927
+DTXSID70880230,DSSTox_Substance_Id,DTXSID70880230,"((2,2,3,3-Tetrafluoropropoxy)methyl)oxirane",FC(F)C(F)(F)COCC1CO1,DTXCID401021809
+DTXSID30340244,DSSTox_Substance_Id,DTXSID30340244,"1H,1H,7H-Perfluoroheptyl 4-methylbenzenesulfonate",CC1=CC=C(C=C1)S(=O)(=O)OCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)F,DTXCID50291325
+DTXSID30395037,DSSTox_Substance_Id,DTXSID30395037,tris(Trifluoroethoxy)methane,FC(F)(F)COC(OCC(F)(F)F)OCC(F)(F)F,DTXCID90345896
+DTXSID00380798,DSSTox_Substance_Id,DTXSID00380798,"1H,1H,11H,11H-Perfluorotetraethylene glycol",OCC(F)(F)OC(F)(F)C(F)(F)OC(F)(F)C(F)(F)OC(F)(F)CO,DTXCID20331823
+DTXSID30396867,DSSTox_Substance_Id,DTXSID30396867,"1H,1H,8H,8H-Perfluorooctane-1,8-diol",OCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)CO,DTXCID60347726
+DTXSID50381992,DSSTox_Substance_Id,DTXSID50381992,"Bis(1H,1H-perfluoropropyl)amine",FC(F)(F)C(F)(F)CNCC(F)(F)C(F)(F)F,DTXCID50333017
+DTXSID70381090,DSSTox_Substance_Id,DTXSID70381090,"1H,1H,8H,8H-Perfluoro-3,6-dioxaoctane-1,8-diol",OCC(F)(F)OC(F)(F)C(F)(F)OC(F)(F)CO,DTXCID40332115
+DTXSID5044572,DSSTox_Substance_Id,DTXSID5044572,Fluorotelomer alcohol 6:2,OCCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,DTXCID3024572
+DTXSID60377821,DSSTox_Substance_Id,DTXSID60377821,4:4 Fluorotelomer alcohol,OCCCCC(F)(F)C(F)(F)C(F)(F)C(F)(F)F,DTXCID70328849
+DTXSID7029904,DSSTox_Substance_Id,DTXSID7029904,Fluorotelomer alcohol 8:2,OCCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,DTXCID309904
+DTXSID50382621,DSSTox_Substance_Id,DTXSID50382621,7:3 Fluorotelomer alcohol,OCCCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,DTXCID80333646
+DTXSID3047558,DSSTox_Substance_Id,DTXSID3047558,2-(Perfluorohexyl)ethyl methacrylate,CC(=C)C(=O)OCCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,DTXCID1027558
+DTXSID5063235,DSSTox_Substance_Id,DTXSID5063235,(Perfluoroheptyl)methyl methacrylate,CC(=C)C(=O)OCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,DTXCID2039621
+DTXSID8062101,DSSTox_Substance_Id,DTXSID8062101,2-(Perfluorooctyl)ethyl methacrylate,CC(=C)C(=O)OCCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,DTXCID5036187
+DTXSID2060965,DSSTox_Substance_Id,DTXSID2060965,Heptafluorobutyramide,NC(=O)C(F)(F)C(F)(F)C(F)(F)F,DTXCID8044757
+DTXSID60400587,DSSTox_Substance_Id,DTXSID60400587,Nonafluoropentanamide,NC(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,DTXCID00351443
+DTXSID70366226,DSSTox_Substance_Id,DTXSID70366226,Perfluoropentanamide,NC(=O)C(F)(F)C(F)(F)C(F)(F)C(F)F,DTXCID00317266
+DTXSID80310730,DSSTox_Substance_Id,DTXSID80310730,Octafluoroadipamide,NC(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(N)=O,DTXCID00261856
+DTXSID60195123,DSSTox_Substance_Id,DTXSID60195123,Perfluorooctanamide,NC(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,DTXCID70117614
+DTXSID4059914,DSSTox_Substance_Id,DTXSID4059914,3:1 Fluorotelomer alcohol,OCC(F)(F)C(F)(F)C(F)(F)F,DTXCID6039340
+DTXSID40379666,DSSTox_Substance_Id,DTXSID40379666,N-Methyl-N-trimethylsilylheptafluorobutyramide,CN(C(=O)C(F)(F)C(F)(F)C(F)(F)F)[Si](C)(C)C,DTXCID00330692
+DTXSID10379991,DSSTox_Substance_Id,DTXSID10379991,3-(Perfluorooctyl)propanol,OCCCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,DTXCID90331017
+DTXSID70381151,DSSTox_Substance_Id,DTXSID70381151,Perfluorooctanamidine,NC(=N)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,DTXCID00332176
+DTXSID0059871,DSSTox_Substance_Id,DTXSID0059871,Pentafluoropropionamide,NC(=O)C(F)(F)C(F)(F)F,DTXCID0039015
+DTXSID10382147,DSSTox_Substance_Id,DTXSID10382147,"3-(Perfluoro-2-butyl)propane-1,2-diol",OCC(O)CC(F)(F)C(F)(F)C(F)(F)C(F)(F)F,DTXCID20897070
+DTXSID80382093,DSSTox_Substance_Id,DTXSID80382093,2-Aminohexafluoropropan-2-ol,NC(O)(C(F)(F)F)C(F)(F)F,DTXCID50333118
+DTXSID20179883,DSSTox_Substance_Id,DTXSID20179883,2-(Perfluorohexyl)ethylphosphonic acid,OP(O)(=O)CCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,DTXCID80102374
+DTXSID90382620,DSSTox_Substance_Id,DTXSID90382620,3-(Perfluoroheptyl)propanoic acid,OC(=O)CCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,DTXCID20333645
+DTXSID70379917,DSSTox_Substance_Id,DTXSID70379917,3-(Perfluorohexyl)propanoic acid,OC(=O)CCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,DTXCID30330943
+DTXSID30891564,DSSTox_Substance_Id,DTXSID30891564,4:2 Fluorotelomer sulfonic acid,OS(=O)(=O)CCC(F)(F)C(F)(F)C(F)(F)C(F)(F)F,DTXCID601030672
+DTXSID6067331,DSSTox_Substance_Id,DTXSID6067331,6:2 Fluorotelomer sulfonic acid,OS(=O)(=O)CCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,DTXCID7037711
+DTXSID70565479,DSSTox_Substance_Id,DTXSID70565479,8H-Perfluorooctanoic acid,OC(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)F,DTXCID80516255
+DTXSID0060985,DSSTox_Substance_Id,DTXSID0060985,Hexafluoroglutaryl chloride,FC(F)(C(Cl)=O)C(F)(F)C(F)(F)C(Cl)=O,DTXCID2045024
+DTXSID6027426,DSSTox_Substance_Id,DTXSID6027426,N-Ethyl-N-(2-hydroxyethyl)perfluorooctane sulfonamide,CCN(CCO)S(=O)(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,DTXCID507426
+DTXSID50469320,DSSTox_Substance_Id,DTXSID50469320,Perfluorohexanesulfonamide,NS(=O)(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,DTXCID10420139
+DTXSID80108992,DSSTox_Substance_Id,DTXSID80108992,Perfluorooctanesulfonate,OS(=O)(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,DTXCID80820526
+DTXSID8031865,DSSTox_Substance_Id,DTXSID8031865,Perfluorooctanoic acid,OC(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,DTXCID6011865
+DTXSID8047553,DSSTox_Substance_Id,DTXSID8047553,Perfluoroundecanoic acid,OC(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,DTXCID6027553
+DTXSID8059928,DSSTox_Substance_Id,DTXSID8059928,Perfluorobutanedioic acid,OC(=O)C(F)(F)C(F)(F)C(O)=O,DTXCID6039392
+DTXSID50184723,DSSTox_Substance_Id,DTXSID50184723,"1H,1H-Perfluorooctylamine",NCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,DTXCID90107214
+DTXSID7060332,DSSTox_Substance_Id,DTXSID7060332,(Perfluorobutyryl)-2-thenoylmethane,FC(F)(F)C(F)(F)C(F)(F)C(=O)CC(=O)C1=CC=CS1,DTXCID9041992
+DTXSID90880156,DSSTox_Substance_Id,DTXSID90880156,"1-Iodo-1H,1H,2H,2H-perfluorononane",FC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)CCI,DTXCID801021744
+DTXSID1062122,DSSTox_Substance_Id,DTXSID1062122,Fluorotelomer alcohol 4:2,OCCC(F)(F)C(F)(F)C(F)(F)C(F)(F)F,DTXCID8036289
+DTXSID00190950,DSSTox_Substance_Id,DTXSID00190950,6:1 Fluorotelomer alcohol,OCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,DTXCID40113441
+DTXSID80375107,DSSTox_Substance_Id,DTXSID80375107,11:1 Fluorotelomer alcohol,OCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,DTXCID00326136
+DTXSID60379269,DSSTox_Substance_Id,DTXSID60379269,3-(Perfluoropropyl)propanol,OCCCC(F)(F)C(F)(F)C(F)(F)F,DTXCID20330295
+DTXSID9059832,DSSTox_Substance_Id,DTXSID9059832,"1H,1H,7H-Dodecafluoro-1-heptanol",OCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)F,DTXCID3038696
+DTXSID0059879,DSSTox_Substance_Id,DTXSID0059879,"1H,1H,5H-Perfluoropentanol",OCC(F)(F)C(F)(F)C(F)(F)C(F)F,DTXCID2039041
